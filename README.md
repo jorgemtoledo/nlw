@@ -1,4 +1,4 @@
-<img alt="GoStack" src="#" />
+<img alt="GoStack" src="https://github.com/jorgemtoledo/nlw/blob/master/files/images/img1.png" />
 
 <h1 align="center"> < next_level_week /> </h1>
 
