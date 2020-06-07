@@ -1,44 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img alt="GoStack" src="https://github.com/jorgemtoledo/nlw/blob/master/files/images/img1.png" />
 
-## Available Scripts
+<h1 align="center"> < next_level_week /> - WEb </h1>
 
-In the project directory, you can run:
+<p align="center">“Às vezes ouço passar o vento; e só de ouvir o vento passar, vale a pena ter nascido. (Fernando Pessoa)”</blockquote></p>
 
-### `yarn start`
+------------
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h4> O que é o Next Level Week?</h4>
+<p>O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar a avançar para o próximo nível.
+Existe um longo caminho a ser percorrido e sua evolução nunca pode parar. Mas você vai ganhar muito tempo se tiver foco apenas naquilo que é importante para dar o próximo passo na sua carreira.
+É aí que entra a Rocketseat, para te ajudar a evoluir na direção certa e na velocidade que a tecnologia exige. E dessa forma você vai se destacar e ter acesso às melhores oportunidades.
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Tecnologias Utilizadas na NLW na parte do Web
+- ![react](https://img.shields.io/badge/ReactJs-TypeScript-blue.svg) - Web
+* ReactJS
+* TypeScript
+* Api do projeto Server
+* Api IBGE
+* Axios
+* Leaflet
+* react-icons
+* Variaveis de Ambiente(.env)
 
-### `yarn test`
+------------
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Agradecimentos
 
-### `yarn build`
+<p>:rocket: Toda a equipe **Rocketset**</p>
+------------
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Jorge Toledo**

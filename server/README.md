@@ -2,7 +2,7 @@
 
 <h1 align="center"> < next_level_week /> - Server </h1>
 
-<p align="center">“Tenho em mim todos os sonhos do mundo. (Fernando Pessoa)”</blockquote></p>
+<p align="center">“Quero para mim o espírito desta frase, transformada a forma para a casar com o que eu sou: Viver não é necessário; o que é necessário é criar. (Fernando Pessoa)”</blockquote></p>
 
 ------------
 
