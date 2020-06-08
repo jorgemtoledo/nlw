@@ -21,6 +21,8 @@ Existe um longo caminho a ser percorrido e sua evolução nunca pode parar. Mas 
 * Cors
 
 ------------
+<img alt="Projeto Mobile" src="https://github.com/jorgemtoledo/nlw/blob/master/files/images/projeto_server.png" />
+------------
 
 ## Agradecimentos
 

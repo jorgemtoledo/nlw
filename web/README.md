@@ -24,6 +24,8 @@ Existe um longo caminho a ser percorrido e sua evolução nunca pode parar. Mas 
 * Variaveis de Ambiente(.env)
 
 ------------
+<img alt="Projeto Mobile" src="https://github.com/jorgemtoledo/nlw/blob/master/files/images/projeto_web.png" />
+------------
 
 ## Agradecimentos
 
